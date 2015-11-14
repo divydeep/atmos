@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-61c1fdc74432db74b473cfcdaa2b58c1bef8fd83.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-7144b53d3e02121d24e0ce38dc05bd50b31eaded.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-f51902980173129270cce50eadccf798c886c90f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-fb0161f61ed4fd6c378ef54be9ba39a95ece1e6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-1d9020a18378fb8ac3145f9ae34a457120b83948.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-069b5f65c84501ec289d71c8246bb7655d79ab33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-c732763e4ba0c83d662a1a5211b0c18d0b3c3ce3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-20f03b08bc082bca43db1076a6a739145b13acb7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-7b36fef8aae13170023d038108d477eaf3ebae94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-492c92bb552b81277b343bb4641d67c84c210d07.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-7fddbad1e4b8a7c36c82bba70a384c87263363aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-deb78489c64bb7e4ffae57759fc917c393e0b52c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-70e9650912c3aab2b56d5de43a3e9f960d91eb5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-9219e4e49a7edfc46fdb2c3a52f8d2f3be19ba4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-1a95363eb40e663fda36a23a805299ffdd5518fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\atmos\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b282708695d09077b799d7c53d6196923659483">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-e4c7ec3c51e7f072055adbcedb038712202bcd95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-9e41a1426a3deafcb08458b14ec6daacbd05e64c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-7f983d8e853846619974dcbab5b7871c55b8f8eb.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\my_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-fd2ebf64298cde86a8efa7adef4e13c0f2e0a9e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-e7c65f63476a215e70029051fbe9e25ad73787b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-53e3fb3b76064977900d6edc8a534a3a44d37bde.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-a525ee46a383366b2786ddc1a1ca1cfd10123b05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-0254699d903f77b8e3bba23b54dab751f385823e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-9c2d38831403dd2da2c9200782f07e3a57829d3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-fd5818a908a794e45614bb8bfe2d82c1f85010b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-f274c64d0a362edfdec06e3c3db81f29a9884553.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-585b8b84cb270e1ee340756a117ef9db600cee85.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-c9b980f73105ec6dd856b9d6a4ec94334c65c210.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-417c520b277b9c558ee4088efa2cf9a6c8ba34ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-579bbe391b94f915ed36d2cd80a1d059f8494e6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-abe59fd41bf99968402dd513989e35ae2ae8166a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Divydeep Agarwal\StudioProjects\atmos\app\build\intermediates\pre-dexed\debug\classes-89339000266f19aa3371df83bace8fafe609ece2.jar" />
+    </item>
+
+</items>

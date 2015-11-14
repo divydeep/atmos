@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#00e676"
+    android:stretchColumns="0"
+    android:id="@+id/hourlyTable">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:id="@+id/textView"
+        android:layout_column="0"
+        android:minHeight="100dp"
+        android:layout_margin="7dp"
+        android:background="#ffffff"
+        android:elevation="5dp"
+        android:padding="5dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:textIsSelectable="false"
+        android:contextClickable="false" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="100dp"
+        android:layout_margin="7dp"
+        android:elevation="5dp"
+        android:background="#ffffff"
+        android:id="@+id/tableRow"
+        android:visibility="visible">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/icon"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/time"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/icon"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/iconTemp"
+                android:layout_below="@+id/icon"
+                android:layout_alignParentStart="true"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView7"
+                android:layout_below="@+id/icon"
+                android:layout_toEndOf="@+id/iconTemp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/humidity"
+                android:layout_below="@+id/time"
+                android:layout_alignParentEnd="true"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/iconHumidity"
+                android:layout_alignBottom="@+id/humidity"
+                android:layout_toStartOf="@+id/humidity"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/iconSunrise"
+                android:layout_below="@+id/iconTemp"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="5dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView11"
+                android:layout_alignBottom="@+id/iconSunrise"
+                android:layout_toEndOf="@+id/iconTemp"
+                android:layout_marginTop="5dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/sunset"
+                android:layout_below="@+id/humidity"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="5dp"
+                android:padding="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:id="@+id/textView13"
+                android:layout_alignBottom="@+id/sunset"
+                android:layout_alignEnd="@+id/iconHumidity"
+                android:layout_marginTop="5dp"
+                android:padding="5dp" />
+        </RelativeLayout>
+
+    </TableRow>
+
+</TableLayout>

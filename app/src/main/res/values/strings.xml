@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">atmos</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display_weather">Weather Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon_clear_day">&#xf00d;</string>
+    <string name="icon_clear_night">&#xf02e;</string>
+    <string name="icon_rain">&#xf019;</string>
+    <string name="icon_snow">&#xf01b;</string>
+    <string name="icon_sleet">&#xf0b5;</string>
+    <string name="icon_wind">&#xf021;</string>
+    <string name="icon_fog">&#xf014;</string>
+    <string name="icon_cloudy">&#xf013;</string>
+    <string name="icon_partly_cloudy_day">&#xf002;</string>
+    <string name="icon_partly_cloudy_night">&#xf086;</string>
+    <string name="icon_hail">&#xf015;</string>
+    <string name="icon_thunderstorm">&#xf01e;</string>
+    <string name="icon_tornado">&#xf056;</string>
+    <string name="icon_precipitation">&#xf084;</string>
+    <string name="icon_chance_rain">&#xf04e;</string>
+    <string name="icon_wind_speed">&#xf050;</string>
+    <string name="icon_pressure">&#xf079;</string>
+    <string name="icon_humidity">&#xf07a;</string>
+    <string name="icon_visibility">&#xf046;</string>
+    <string name="icon_sunrise">&#xf051;</string>
+    <string name="icon_sunset">&#xf052;</string>
+    <string name="icon_thermometer">&#xf055;</string>
+    <string name="icon_cloud_cover">&#xf041;</string>
+    <string name="icon_degree">&#xf042;</string>
+    <string name="icon_fahrenheit">&#xf045;</string>
+</resources>
